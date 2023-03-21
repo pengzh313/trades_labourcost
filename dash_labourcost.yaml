@@ -8,5 +8,6 @@ dependencies:
   - altair
   - dash=2.8.*
   - dash-bootstrap-components
+  - openpyxl
 
   
