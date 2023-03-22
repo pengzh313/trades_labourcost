@@ -2,7 +2,6 @@
 from dash import dash, html, dcc, dash_table, Input, Output
 import dash_bootstrap_components as dbc
 import pandas as pd
-import altair as alt
 
 # read raw data
 rates = pd.read_excel('../data/labour_rates.xlsx', sheet_name='rates')
