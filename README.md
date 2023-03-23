@@ -74,7 +74,7 @@ To install `trades_labourcost` locally, you can:
 
 After the specific environment created, activate the new environment by:
 
-    conda activate dash_labourcost.yaml
+    conda activate dash_labourcost
 
 3.  Finally, run the app locally by below two options:
 
