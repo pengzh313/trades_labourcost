@@ -19,7 +19,7 @@ This document provides basic information of this Trades Labour Cost App. Please 
 -   [Usage](#usage)
 -   [How can you get involved?](#get-involved)
 
-## What are we doing? {#what-are-we-doing}
+## What are we doing?
 
 ### The problem
 
@@ -34,7 +34,7 @@ The Trades Labour Cost App will:
 -   Enable estimators in the construction industry to effectively and efficiently compare weekly labour costs for different trades (currently the app only includes boilermaker, millwright, ironworker, and pipefitter trades in four union locals) and for different shift options.
 -   Help estimators to manage various of wage/benefit rates, overall labour costing via data visualization.
 
-## Description of App {#description-of-app}
+## Description of App
 
 The Dash app contains two main panels.
 
@@ -48,15 +48,15 @@ We are planning to add more data and more features in the app in the future to m
 
 -   Referring to the proposal of this project, currently the weekly trades labour cost results obtained from the app is only applicable for four exclusively mentioned union locals.
 
-## Sketch {#sketch}
+## Sketch
 
 <img src="img/dash_design_version1.png"/>
 
-## Contributors {#contributors}
+## Contributors
 
 The contributor of this project is Peng Zhang.
 
-## Usage {#usage}
+## Usage
 
 To install `trades_labourcost` locally, you can:
 
@@ -86,7 +86,7 @@ After the specific environment created, activate the new environment by:
 
     python app.py
 
-## Get involved {#get-involved}
+## Get involved
 
 If you have any new ideas and suggestions for improvement about this app, please feel free to contact us via Github issues.
 
